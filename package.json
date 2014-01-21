@@ -10,11 +10,12 @@
   },
   "dependencies": {
     "hoek": "1.x.x",
+    "boom": "2.x.x",
+    "joi": "2.x.x",
     "emailjs": "0.3.x",
     "oz": "0.4.x",
     "mongodb": "0.9.x",
     "socket.io": "0.9.x",
-    "cryptiles": "2.x.x",
     "scarecrow": "0.1.x"
   },
   "peerDependencies": {
