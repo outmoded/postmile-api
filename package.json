@@ -1,7 +1,7 @@
 {
   "name": "postmile-api",
   "description": "Collaborative list making server API",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "author": "Eran Hammer <eran@hammer.io> (http://hueniverse.com)",
   "repository": "git://github.com/hueniverse/postmile-api",
   "main": "index",
@@ -16,7 +16,7 @@
     "oz": "0.4.x",
     "mongodb": "0.9.x",
     "socket.io": "0.9.x",
-    "scarecrow": "0.1.x"
+    "scarecrow": "0.2.x"
   },
   "peerDependencies": {
     "hapi": "6.x.x"
